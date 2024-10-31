@@ -67,9 +67,9 @@
                                         </div>
 
                                         <div class="d-flex justify-content-between mx-4 mb-3 mb-lg-4">
-                                            <a href=""><button type="submit" data-mdb-button-init
+                                          <button type="submit" data-mdb-button-init
                                                     data-mdb-ripple-init
-                                                    class="btn btn-primary btn-lg">Register</button></a>
+                                                    class="btn btn-primary btn-lg">Register</button>
                                             <a href="/login"><button type="button" data-mdb-button-init
                                                     data-mdb-ripple-init class="btn btn-primary btn-lg">Log
                                                     In</button></a>
